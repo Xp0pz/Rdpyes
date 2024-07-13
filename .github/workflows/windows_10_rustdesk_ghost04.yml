@@ -1,6 +1,6 @@
 name: Instalar Windows
 
-on: [push, pull_request]
+on: [push, workflow_dispatch]
 
 jobs:
   install-windows:
